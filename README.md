@@ -113,4 +113,4 @@ This file will derive the logic of calculating next development version and rele
 
 ## Configure Pipeline
 
-Follow the steps on this wiki page to configure the pipeline https://github.com/dhruv-bansal/jgit-jenkins-pipeline/wiki/Configuring-pipeline
+Follow the steps on this wiki page to configure the pipeline https://github.com/techpleiad/jgit-jenkins-pipeline/wiki/Configuring-pipeline
